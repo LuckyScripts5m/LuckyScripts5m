@@ -2,7 +2,7 @@
 
   ## 👋 Hello, I'm a Full-Stack Developer from Estonia 🇪🇪
 
-  > Specializing in **FiveM scripts, UIs, and HUD systems**.
+  > Specializing in **FiveM Scripts, UI Design, and HUD systems.**.
 
   I bridge the gap between performant **Lua** logic and modern **NUI** interfaces using Svelte and React.
 
