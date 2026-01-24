@@ -4,8 +4,7 @@
 
   > Specializing in **FiveM Scripts, UI Design, and HUD systems.**.
 
-  I bridge the gap between performant **Lua** logic and modern **NUI** interfaces using Svelte and React.
-
+ 
   ---
 
   ## 🧰 Tech Stack
