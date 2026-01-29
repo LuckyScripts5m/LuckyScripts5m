@@ -29,7 +29,7 @@
   
   ## 📫 Connect
 
-  <a href="https://discord.com/users/YOUR_DISCORD_ID_HERE">
+  <a href="https://discord.gg/Vdy4jDZPFq">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
