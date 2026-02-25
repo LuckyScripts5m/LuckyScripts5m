@@ -10,17 +10,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-Hey — I'm a full-stack developer based in **Estonia 🇪🇪**, focused on building high-quality **FiveM resources** and immersive **NUI/HUD systems**. I care deeply about clean code, pixel-perfect UI, and performant scripts that just work.
+I'm a full-stack developer based in **Estonia 🇪🇪**, focused on building high-quality **FiveM resources** and immersive **NUI/HUD systems**. I care deeply about clean code, pixel-perfect UI, and performant scripts that just work.
 
-- 🔭 Currently working on advanced FiveM frameworks and custom NUI components
-- 🎯 Specializing in **Lua scripting**, **React/Svelte NUI**, and **server-side architecture**
-- 🤝 Open to collaboration on FiveM projects — from concept to release
+- Currently working on advanced FiveM frameworks and custom NUI components
+- Specializing in **Lua scripting**, **React/Svelte NUI**, and **server-side architecture**
+- Open to collaboration on FiveM projects — from concept to release
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -37,7 +37,7 @@ Hey — I'm a full-stack developer based in **Estonia 🇪🇪**, focused on bui
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyScripts5m&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
@@ -45,7 +45,7 @@ Hey — I'm a full-stack developer based in **Estonia 🇪🇪**, focused on bui
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://discord.gg/Vdy4jDZPFq">
